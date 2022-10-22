@@ -3,12 +3,12 @@
 
 
 Transport Layer Security                                      J. Salowey
-Internet-Draft                                                Salesforce
+Internet-Draft                                                    Venafi
 Obsoletes: 8447 (if approved)                                  S. Turner
 Updates: 3749, 5077, 4680, 5246, 5705, 5878,                       sn3rd
-         6520, 7301 (if approved)                            2 July 2022
+         6520, 7301 (if approved)                        22 October 2022
 Intended status: Standards Track                                        
-Expires: 3 January 2023
+Expires: 25 April 2023
 
 
                  IANA Registry Updates for TLS and DTLS
@@ -34,7 +34,8 @@ About This Document
 
    Discussion of this document takes place on the Transport Layer
    Security Working Group mailing list (mailto:tls@ietf.org), which is
-   archived at https://mailarchive.ietf.org/arch/browse/tls/.
+   archived at https://mailarchive.ietf.org/arch/browse/tls/.  Subscribe
+   at https://www.ietf.org/mailman/listinfo/tls/.
 
    Source for this draft and an issue tracker can be found at
    https://github.com/tlswg/rfc8447bis.
@@ -54,7 +55,7 @@ Status of This Memo
    time.  It is inappropriate to use Internet-Drafts as reference
    material or to cite them other than as "work in progress."
 
-   This Internet-Draft will expire on 3 January 2023.
+   This Internet-Draft will expire on 25 April 2023.
 
 Copyright Notice
 
@@ -964,7 +965,7 @@ Table of Contents
 20.1.  Normative References
 
    [I-D.ietf-tls-deprecate-obsolete-kex]
-              Bartle, C. and N. Aviram, "Deprecating Obsolete Key
+              Carrick, C. and N. Aviram, "Deprecating Obsolete Key
               Exchange Methods in TLS", Work in Progress, Internet-
               Draft, draft-ietf-tls-deprecate-obsolete-kex-00, 15 June
               2022, <https://datatracker.ietf.org/doc/html/draft-ietf-
@@ -978,11 +979,11 @@ Table of Contents
               rfc8446bis-04>.
 
    [I-D.ietf-tls-rfc8447bis]
-              Salowey, J. and S. Turner, "IANA Registry Updates for TLS
-              and DTLS", Work in Progress, Internet-Draft, draft-ietf-
-              tls-rfc8447bis-00, 29 March 2022,
+              Salowey, J. A. and S. Turner, "IANA Registry Updates for
+              TLS and DTLS", Work in Progress, Internet-Draft, draft-
+              ietf-tls-rfc8447bis-01, 7 July 2022,
               <https://datatracker.ietf.org/doc/html/draft-ietf-tls-
-              rfc8447bis-00>.
+              rfc8447bis-01>.
 
    [RFC2119]  Bradner, S., "Key words for use in RFCs to Indicate
               Requirement Levels", BCP 14, RFC 2119,
@@ -1068,7 +1069,7 @@ Table of Contents
 Authors' Addresses
 
    Joe Salowey
-   Salesforce
+   Venafi
    Email: joe@salowey.net
 
 
